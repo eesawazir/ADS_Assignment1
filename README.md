@@ -1,5 +1,7 @@
 # ADS_Assignment1
 
+Assignment 1 of Algorithms and Data Structures
+
 Implemented a counting and radix sort to solve a problem.
 
 The problem was:
