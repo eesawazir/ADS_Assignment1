@@ -4,7 +4,7 @@ Implemented a counting and radix sort to solve a problem.
 
 The problem was:
 
-You are given a list of strings. When a string is rotated by p palces to the left, that is called a p-rotation. 
+You are given a list of strings. When a string is rotated by p places to the left, that is called a p-rotation. 
 The task was to execute p-rotations on each string in the list and find out if the rotated string is present in the input list.
 
 This task was supposed to be done in O(NM) where 
